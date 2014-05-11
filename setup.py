@@ -10,7 +10,7 @@ setup(
     author_email='andrey@noveltylab.com',
     description='Python client for HolyTransaction API',
     classifiers=[
-        'Development Status :: 0.1 - Alpha',
+        'Development Status :: 2 - Pre-Alpha',
         'Environment :: Console',
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
