@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='HolyTransaction',
@@ -23,9 +23,10 @@ setup(
         ],
     install_requires=[
         'httplib2>=0.8',
-        'requests=>2.0'
+        'requests>=1.1.0',
         ],
     tests_require=[
+        'sure>=1.2.5',
         'httpretty>=0.8.0',
         ],
 )

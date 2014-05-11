@@ -1,4 +1,4 @@
-httplib2==0.9
-requests==2.2.1
-sure==1.2.7
+httplib2==0.8
+requests==1.1.0
+sure==1.2.5
 httpretty==0.8.0
