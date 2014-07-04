@@ -49,13 +49,13 @@ Feel free to submit issues and pull requests at https://bitbucket.org/noveltylab
 
 ## Credits
 
-- Andrey Zamovskiy &lt;andrey@noveltylab.com&gt;
+- Andrey Zamovskiy andrey@noveltylab.com
 
 ## License
 
 (The MIT License)
 
-Copyright (c) 2013 George Sibble &lt;gsibble@gmail.com&gt;
+Copyright (c) 2013-2014 Andrey Zamovskiy andrey@noveltylab.com
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
